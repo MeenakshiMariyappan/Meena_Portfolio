@@ -229,7 +229,7 @@ export const EXPERIENCE = [
     ],
   },
   {
-    title: "Programmar Analyst",
+    title: "Programmer Analyst",
     company_name: "Cognizant",
     icon: "/company/cognizant.png",
     iconBg: "#F5F5F5",
@@ -243,7 +243,7 @@ export const EXPERIENCE = [
     ],
   },
   {
-    title: "Programmar Analyst Trainee",
+    title: "Programmer Analyst Trainee",
     company_name: "Cognizant",
     icon: "/company/cognizant.png",
     iconBg: "#F5F5F5",
