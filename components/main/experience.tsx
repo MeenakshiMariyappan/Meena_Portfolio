@@ -46,7 +46,7 @@ const Experience = () => {
                   </h3>
                   <Link
                     key={experience.title}
-                    href="https://tekion.com/"
+                    href="https://www.cognizant.com/"
                     className="text-gray-400 text-md max-xs:text-center mt-1 underline"
                   >
                     {experience.company_name}
