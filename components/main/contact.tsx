@@ -84,7 +84,7 @@ export const Contact = () => {
             className="text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]"
             id="contact"
           >
-            Contact .
+            Contact
           </h3>
           <Form {...form}>
             <form
